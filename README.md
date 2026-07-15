@@ -1,8 +1,45 @@
 
 # 👋 Hi, I'm Rahul Moundekar
 
-> Senior Java Full Stack Developer | Java | Spring Boot | Microservices | Angular | React | AWS
+## 👨‍💻 About Me
 
+```java
+public class RahulMoundekar {
+
+    String role = "Senior Java Full Stack Developer";
+
+    String location = "Pune, India";
+
+    String[] backend = {
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "Microservices",
+        "Hibernate"
+    };
+
+    String[] frontend = {
+        "Angular",
+        "React",
+        "TypeScript"
+    };
+
+    String[] cloud = {
+        "AWS",
+        "Docker",
+        "Kubernetes"
+    };
+
+    String[] databases = {
+        "MySQL",
+        "MongoDB",
+        "Redis"
+    };
+
+    String currentFocus = "Spring AI + LangChain4j + MCP + AI Agents";
+
+}
+```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulmoundekar&style=for-the-badge)
 
@@ -44,14 +81,6 @@
 </a>
 
 </p>
-
-# About Me
-
-- 💼 Senior Java Full Stack Developer
-- ☕ Java, Spring Boot, Microservices
-- ⚛️ Angular & React
-- ☁️ AWS, Docker, Kubernetes
-- 📍 Pune, India
 
 # Tech Stack
 
@@ -196,6 +225,19 @@
 </p>
 ```
 
+# 🤖 AI & GenAI
+
+Currently Learning
+
+- Spring AI
+- LangChain4j
+- MCP
+- AI Agents
+- OpenAI API
+- RAG
+- Prompt Engineering
+- Vector Database
+
 ---
 
 # 🧠 System Design Topics
@@ -228,3 +270,18 @@
 - Generative AI
 
 ---
+> "First, solve the problem. Then, write the code."
+> — John Johnson
+---
+
+<div align="center">
+
+# Thanks for visiting 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=150&section=footer"/>
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+💙 Happy Coding!
+
+</div>
