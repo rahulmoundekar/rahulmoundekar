@@ -3,6 +3,15 @@
 
 > Senior Java Full Stack Developer | Java | Spring Boot | Microservices | Angular | React | AWS
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=rahulmoundekar&style=for-the-badge)
+
+![Followers](https://img.shields.io/github/followers/rahulmoundekar?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/rahulmoundekar?style=for-the-badge)
+
+![Repos](https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge)
+
 ---
 
 # Hero Banner
@@ -18,6 +27,19 @@
 ```md
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&width=900&lines=Senior+Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;Angular+%7C+React;AWS+Cloud+Developer)](...)
 ```
+
+<p align="center">
+
+<a href="https://github.com/rahulmoundekar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Replace the URL below with your actual LinkedIn profile -->
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 # About Me
 
@@ -87,13 +109,11 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulmoundekar&theme=tokyo-night&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
@@ -124,6 +144,37 @@
 </div>
 
 ---
+
+# 📊 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rahulmoundekar&theme=tokyonight&row=2&column=4"/>
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulmoundekar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmoundekar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rahulmoundekar&theme=tokyonight"/>
+
+</p>
 
 # 💻 Daily Development
 

@@ -1,0 +1,51 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="50%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="25"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+
+  <circle cx="250" cy="120" r="100" fill="#60A5FA" opacity="0.2" filter="url(#blur)"/>
+  <circle cx="1400" cy="380" r="120" fill="#A855F7" opacity="0.2" filter="url(#blur)"/>
+
+  <rect x="120" y="90" width="1360" height="320" rx="35"
+        fill="rgba(255,255,255,0.08)"
+        stroke="rgba(255,255,255,0.25)"/>
+
+  <text x="180" y="190"
+        fill="white"
+        font-size="52"
+        font-family="Segoe UI"
+        font-weight="700">
+        Rahul Moundekar
+  </text>
+
+  <text x="180" y="250"
+        fill="#E2E8F0"
+        font-size="28"
+        font-family="Segoe UI">
+        Senior Java Full Stack Developer
+  </text>
+
+  <text x="180" y="300"
+        fill="#93C5FD"
+        font-size="22"
+        font-family="Segoe UI">
+        Java • Spring Boot • Microservices • Angular • React • AWS
+  </text>
+
+  <text x="180" y="340"
+        fill="#CBD5E1"
+        font-size="18"
+        font-family="Segoe UI">
+        Building scalable enterprise applications.
+  </text>
+</svg>
