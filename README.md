@@ -101,11 +101,9 @@
 
 # 🔥 Contribution Streak
 
-<div align="center">
-
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=rahulmoundekar&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
@@ -117,13 +115,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rahulmoundekar&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+</p>
 
 ---
 
@@ -135,13 +131,12 @@
 
 ---
 
-
----
-
 # 📊 GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+
+<img src="./github-metrics.svg"/>
+
 </p>
 
 ---
@@ -153,14 +148,11 @@
 </p>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulmoundekar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmoundekar&layout=compact&theme=tokyonight"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rahulmoundekar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmoundekar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -168,6 +160,15 @@
 <img src="https://streak-stats.demolab.com?user=rahulmoundekar&theme=tokyonight"/>
 
 </p>
+
+## 🚀 Featured Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| Enterprise Banking API | Java, Spring Boot | Microservices banking application |
+| E-Commerce Platform | Spring Boot, Angular | Full-stack shopping platform |
+| AI Resume Analyzer | Spring AI, React | ATS resume analysis with AI |
+| DevOps Dashboard | React, Docker | Monitoring and deployment dashboard |
 
 # 💻 Daily Development
 
@@ -188,45 +189,11 @@
 ---
 
 # ⚡ Enterprise Skills
+<p align="center">
 
-```text
-✔ Java 8 / 17 / 21
+<img src="https://skillicons.dev/icons?i=java,spring,react,angular,aws,docker,kubernetes,mysql,mongodb,redis,git,github,jenkins,maven,linux,vscode&perline=8"/>
 
-✔ Spring Boot
-
-✔ Spring Security
-
-✔ Spring Data JPA
-
-✔ Hibernate
-
-✔ REST APIs
-
-✔ Microservices
-
-✔ Kafka
-
-✔ Redis
-
-✔ MongoDB
-
-✔ Docker
-
-✔ Kubernetes
-
-✔ AWS
-
-✔ Angular
-
-✔ React
-
-✔ Git
-
-✔ Jenkins
-
-✔ SonarQube
-
-✔ Maven
+</p>
 ```
 
 ---
