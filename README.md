@@ -1,6 +1,8 @@
 
 # 👋 Hi, I'm Rahul Moundekar
 
+Building scalable Java applications with Spring Boot, Microservices, Angular, React & AWS ☕🚀
+
 ## 👨‍💻 About Me
 
 ```java
@@ -40,15 +42,6 @@ public class RahulMoundekar {
 
 }
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=rahulmoundekar&style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/rahulmoundekar?style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/rahulmoundekar?style=for-the-badge)
-
-![Repos](https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge)
-
 ---
 
 # Hero Banner
@@ -116,18 +109,6 @@ public class RahulMoundekar {
 <!-- End of Part 1 -->
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulmoundekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmoundekar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -140,14 +121,6 @@ public class RahulMoundekar {
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulmoundekar&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rahulmoundekar&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -169,13 +142,6 @@ public class RahulMoundekar {
 </p>
 
 ---
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rahulmoundekar&theme=tokyonight&row=2&column=4"/>
-</p>
-
 
 ## 📊 GitHub Statistics
 
@@ -199,22 +165,6 @@ public class RahulMoundekar {
 | AI Resume Analyzer | Spring AI, React | ATS resume analysis with AI |
 | DevOps Dashboard | React, Docker | Monitoring and deployment dashboard |
 
-# 💻 Daily Development
-
-<div align="center">
-
-| Category | Focus |
-|-----------|-------|
-| ☕ Backend | Java 21, Spring Boot |
-| ⚛ Frontend | Angular, React |
-| ☁ Cloud | AWS |
-| 🐳 Containers | Docker |
-| ☸ Orchestration | Kubernetes |
-| 🧪 Testing | JUnit, Mockito |
-| 🔁 CI/CD | Jenkins, GitHub Actions |
-
-</div>
-
 ---
 
 # ⚡ Enterprise Skills
@@ -223,7 +173,7 @@ public class RahulMoundekar {
 <img src="https://skillicons.dev/icons?i=java,spring,react,angular,aws,docker,kubernetes,mysql,mongodb,redis,git,github,jenkins,maven,linux,vscode&perline=8"/>
 
 </p>
-```
+
 
 # 🤖 AI & GenAI
 
