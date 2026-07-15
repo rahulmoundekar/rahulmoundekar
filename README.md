@@ -1,21 +1,211 @@
-# 💫 About Me:
-<br><br>Senior Java Developer with 5.2 years of experience in Java Development | Java | Microservices | Spring Boot | Angular | React | Java Developer | Java Fullstatck developer
 
+# 👋 Hi, I'm Rahul Moundekar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-moundekar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulmoundekar04@gmail.com) 
-
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahulmoundekar&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rahulmoundekar&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmoundekar&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> Senior Java Full Stack Developer | Java | Spring Boot | Microservices | Angular | React | AWS
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rahulmoundekar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Hero Banner
+
+> Replace with `assets/banner.svg`
+
+```md
+![Banner](assets/banner.svg)
+```
+
+# Animated Typing
+
+```md
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&width=900&lines=Senior+Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;Angular+%7C+React;AWS+Cloud+Developer)](...)
+```
+
+# About Me
+
+- 💼 Senior Java Full Stack Developer
+- ☕ Java, Spring Boot, Microservices
+- ⚛️ Angular & React
+- ☁️ AWS, Docker, Kubernetes
+- 📍 Pune, India
+
+# Tech Stack
+
+## Backend
+- Java 8/17/21
+- Spring Boot
+- Spring Security
+- Hibernate
+- REST APIs
+
+## Frontend
+- Angular
+- React
+- TypeScript
+
+## Databases
+- MySQL
+- Oracle
+- MongoDB
+- Redis
+
+## DevOps
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+
+## Cloud
+- AWS EC2
+- S3
+- RDS
+
+# Connect
+
+- GitHub: https://github.com/rahulmoundekar
+
+<!-- End of Part 1 -->
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulmoundekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmoundekar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rahulmoundekar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulmoundekar&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rahulmoundekar&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rahulmoundekar&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+# 💻 Daily Development
+
+<div align="center">
+
+| Category | Focus |
+|-----------|-------|
+| ☕ Backend | Java 21, Spring Boot |
+| ⚛ Frontend | Angular, React |
+| ☁ Cloud | AWS |
+| 🐳 Containers | Docker |
+| ☸ Orchestration | Kubernetes |
+| 🧪 Testing | JUnit, Mockito |
+| 🔁 CI/CD | Jenkins, GitHub Actions |
+
+</div>
+
+---
+
+# ⚡ Enterprise Skills
+
+```text
+✔ Java 8 / 17 / 21
+
+✔ Spring Boot
+
+✔ Spring Security
+
+✔ Spring Data JPA
+
+✔ Hibernate
+
+✔ REST APIs
+
+✔ Microservices
+
+✔ Kafka
+
+✔ Redis
+
+✔ MongoDB
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ AWS
+
+✔ Angular
+
+✔ React
+
+✔ Git
+
+✔ Jenkins
+
+✔ SonarQube
+
+✔ Maven
+```
+
+---
+
+# 🧠 System Design Topics
+
+- API Gateway
+- Service Discovery
+- Circuit Breaker
+- Rate Limiting
+- Distributed Cache
+- Event-Driven Architecture
+- CQRS
+- Saga Pattern
+- Resilience4j
+- OAuth2 & JWT
+- OpenAPI / Swagger
+- Horizontal Scaling
+
+---
+
+# 🚀 Current Focus
+
+- Spring AI
+- LangChain4j
+- AI Agents
+- MCP Servers
+- AWS Architecture
+- Kubernetes
+- System Design
+- High-Performance Java
+- Generative AI
+
+---
