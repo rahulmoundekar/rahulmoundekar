@@ -16,17 +16,17 @@
 
 # Hero Banner
 
-> Replace with `assets/banner.svg`
-
-```md
-![Banner](assets/banner.svg)
-```
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Rahul Moundekar Banner"/>
+</p>
 
 # Animated Typing
 
-```md
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&width=900&lines=Senior+Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;Angular+%7C+React;AWS+Cloud+Developer)](...)
-```
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Senior+Java+Full+Stack+Developer;Spring+Boot+Expert;Microservices+Architecture;Angular+%7C+React+Developer;AWS+Cloud+Engineer;Open+Source+Enthusiast)](https://github.com/rahulmoundekar)
+
+</p>
 
 <p align="center">
 
@@ -80,10 +80,6 @@
 - S3
 - RDS
 
-# Connect
-
-- GitHub: https://github.com/rahulmoundekar
-
 <!-- End of Part 1 -->
 ---
 
@@ -135,13 +131,6 @@
 
 ---
 
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rahulmoundekar&style=for-the-badge&color=blue"/>
-
-</div>
 
 ---
 
