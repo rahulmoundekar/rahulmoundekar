@@ -17,7 +17,11 @@
 # Hero Banner
 
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Rahul Moundekar Banner"/>
+<img src="assets/banner.svg" width="100%" />
+</p>
+
+<p align="center">
+<img src="assets/coding-3d.svg" width="700"/>
 </p>
 
 # Animated Typing

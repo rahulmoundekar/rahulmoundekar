@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+
+    <linearGradient id="screen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,.15)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,.04)"/>
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity=".45"/>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect width="900" height="600" rx="30" fill="url(#bg)"/>
+
+  <!-- Glow -->
+
+  <circle cx="180" cy="120" r="90" fill="#38BDF8" opacity=".15"/>
+  <circle cx="720" cy="460" r="110" fill="#8B5CF6" opacity=".18"/>
+
+  <!-- Laptop -->
+
+  <g filter="url(#shadow)">
+
+    <rect
+      x="220"
+      y="90"
+      width="460"
+      height="290"
+      rx="18"
+      fill="url(#screen)"
+      stroke="#334155"
+      stroke-width="3"/>
+
+    <!-- Editor -->
+
+    <rect
+      x="240"
+      y="110"
+      width="420"
+      height="250"
+      rx="10"
+      fill="#0B1220"/>
+
+    <!-- Header -->
+
+    <circle cx="258" cy="128" r="5" fill="#EF4444"/>
+    <circle cx="276" cy="128" r="5" fill="#FACC15"/>
+    <circle cx="294" cy="128" r="5" fill="#22C55E"/>
+
+    <!-- Code -->
+
+    <text
+      x="260"
+      y="165"
+      fill="#38BDF8"
+      font-size="16"
+      font-family="Consolas">
+
+public class Application {
+
+    </text>
+
+    <text
+      x="280"
+      y="195"
+      fill="#F8FAFC"
+      font-size="15"
+      font-family="Consolas">
+
+public static void main()
+
+    </text>
+
+    <text
+      x="300"
+      y="225"
+      fill="#22C55E"
+      font-size="15"
+      font-family="Consolas">
+
+SpringApplication.run();
+
+    </text>
+
+    <text
+      x="280"
+      y="255"
+      fill="#F97316"
+      font-size="15"
+      font-family="Consolas">
+
+Microservices
+
+    </text>
+
+    <text
+      x="280"
+      y="285"
+      fill="#A78BFA"
+      font-size="15"
+      font-family="Consolas">
+
+Docker + Kubernetes
+
+    </text>
+
+    <text
+      x="280"
+      y="315"
+      fill="#38BDF8"
+      font-size="15"
+      font-family="Consolas">
+
+AWS Cloud
+
+    </text>
+
+  </g>
+
+  <!-- Keyboard -->
+
+  <rect
+    x="180"
+    y="380"
+    width="540"
+    height="35"
+    rx="18"
+    fill="#374151"/>
+
+  <rect
+    x="250"
+    y="415"
+    width="400"
+    height="18"
+    rx="9"
+    fill="#4B5563"/>
+
+  <!-- Floating Tags -->
+
+  <g>
+
+    <rect x="80" y="120" width="110" height="42" rx="21" fill="#2563EB"/>
+    <text x="112" y="147" fill="white" font-size="16" font-family="Segoe UI">Java</text>
+
+    <rect x="680" y="110" width="150" height="42" rx="21" fill="#22C55E"/>
+    <text x="705" y="137" fill="white" font-size="16" font-family="Segoe UI">Spring Boot</text>
+
+    <rect x="90" y="430" width="140" height="42" rx="21" fill="#EF4444"/>
+    <text x="118" y="457" fill="white" font-size="16" font-family="Segoe UI">Angular</text>
+
+    <rect x="690" y="440" width="120" height="42" rx="21" fill="#38BDF8"/>
+    <text x="720" y="467" fill="white" font-size="16" font-family="Segoe UI">React</text>
+
+    <rect x="360" y="510" width="170" height="46" rx="23" fill="#7C3AED"/>
+    <text x="395" y="539" fill="white" font-size="18" font-family="Segoe UI">
+AWS • Docker
+    </text>
+
+  </g>
+
+</svg>
