@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="55%" stop-color="#0f1f46"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="26" fill="url(#bg)"/>
+  <text x="56" y="72" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">Engineering Portfolio</text>
+  <text x="56" y="112" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="18">Authentication · Reliability · Distributed Systems · Search</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">
+    <rect x="56" y="145" width="188" height="38" rx="19" fill="#1d4ed8"/><text x="85" y="170" fill="#fff">Security &amp; JWT</text>
+    <rect x="258" y="145" width="190" height="38" rx="19" fill="#047857"/><text x="287" y="170" fill="#fff">Payments &amp; Ledgers</text>
+    <rect x="462" y="145" width="190" height="38" rx="19" fill="#7c3aed"/><text x="490" y="170" fill="#fff">Kafka &amp; Events</text>
+    <rect x="666" y="145" width="170" height="38" rx="19" fill="#be123c"/><text x="697" y="170" fill="#fff">Webhooks</text>
+    <rect x="850" y="145" width="175" height="38" rx="19" fill="#0f766e"/><text x="883" y="170" fill="#fff">PostgreSQL Search</text>
+  </g>
+</svg>
