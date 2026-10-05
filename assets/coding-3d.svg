@@ -1,176 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
-
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
   <defs>
-
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F172A"/>
-      <stop offset="100%" stop-color="#312E81"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="55%" stop-color="#0f1f46"/>
+      <stop offset="100%" stop-color="#25114f"/>
     </linearGradient>
-
-    <linearGradient id="screen" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0b1224"/>
     </linearGradient>
-
-    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="rgba(255,255,255,.15)"/>
-      <stop offset="100%" stop-color="rgba(255,255,255,.04)"/>
-    </linearGradient>
-
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity=".45"/>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity=".42"/>
     </filter>
-
   </defs>
 
-  <!-- Background -->
-
-  <rect width="900" height="600" rx="30" fill="url(#bg)"/>
-
-  <!-- Glow -->
-
-  <circle cx="180" cy="120" r="90" fill="#38BDF8" opacity=".15"/>
-  <circle cx="720" cy="460" r="110" fill="#8B5CF6" opacity=".18"/>
+  <rect width="900" height="560" rx="30" fill="url(#bg)"/>
+  <circle cx="130" cy="100" r="85" fill="#38bdf8" opacity=".08"/>
+  <circle cx="760" cy="450" r="100" fill="#a855f7" opacity=".10"/>
 
   <!-- Laptop -->
-
   <g filter="url(#shadow)">
+    <rect x="165" y="70" width="570" height="320" rx="20" fill="url(#screen)" stroke="#475569" stroke-width="3"/>
+    <rect x="190" y="98" width="520" height="262" rx="12" fill="#050b18" stroke="#1e293b"/>
 
-    <rect
-      x="220"
-      y="90"
-      width="460"
-      height="290"
-      rx="18"
-      fill="url(#screen)"
-      stroke="#334155"
-      stroke-width="3"/>
+    <circle cx="210" cy="118" r="5" fill="#f87171"/>
+    <circle cx="228" cy="118" r="5" fill="#facc15"/>
+    <circle cx="246" cy="118" r="5" fill="#4ade80"/>
 
-    <!-- Editor -->
-
-    <rect
-      x="240"
-      y="110"
-      width="420"
-      height="250"
-      rx="10"
-      fill="#0B1220"/>
-
-    <!-- Header -->
-
-    <circle cx="258" cy="128" r="5" fill="#EF4444"/>
-    <circle cx="276" cy="128" r="5" fill="#FACC15"/>
-    <circle cx="294" cy="128" r="5" fill="#22C55E"/>
-
-    <!-- Code -->
-
-    <text
-      x="260"
-      y="165"
-      fill="#38BDF8"
-      font-size="16"
-      font-family="Consolas">
-
-public class Application {
-
-    </text>
-
-    <text
-      x="280"
-      y="195"
-      fill="#F8FAFC"
-      font-size="15"
-      font-family="Consolas">
-
-public static void main()
-
-    </text>
-
-    <text
-      x="300"
-      y="225"
-      fill="#22C55E"
-      font-size="15"
-      font-family="Consolas">
-
-SpringApplication.run();
-
-    </text>
-
-    <text
-      x="280"
-      y="255"
-      fill="#F97316"
-      font-size="15"
-      font-family="Consolas">
-
-Microservices
-
-    </text>
-
-    <text
-      x="280"
-      y="285"
-      fill="#A78BFA"
-      font-size="15"
-      font-family="Consolas">
-
-Docker + Kubernetes
-
-    </text>
-
-    <text
-      x="280"
-      y="315"
-      fill="#38BDF8"
-      font-size="15"
-      font-family="Consolas">
-
-AWS Cloud
-
-    </text>
-
+    <g font-family="Consolas,Monaco,monospace" font-size="16">
+      <text x="220" y="154" fill="#38bdf8">class RahulArchitecture {</text>
+      <text x="244" y="187" fill="#c4b5fd">Security</text><text x="322" y="187" fill="#e2e8f0"> → JWT + RBAC</text>
+      <text x="244" y="218" fill="#86efac">Reliability</text><text x="340" y="218" fill="#e2e8f0"> → Idempotency</text>
+      <text x="244" y="249" fill="#fbbf24">Events</text><text x="300" y="249" fill="#e2e8f0"> → Kafka + Outbox</text>
+      <text x="244" y="280" fill="#f9a8d4">Integration</text><text x="340" y="280" fill="#e2e8f0"> → Webhooks</text>
+      <text x="244" y="311" fill="#7dd3fc">Data</text><text x="286" y="311" fill="#e2e8f0"> → PostgreSQL + Redis</text>
+      <text x="220" y="344" fill="#38bdf8">}</text>
+    </g>
   </g>
 
-  <!-- Keyboard -->
+  <!-- Base -->
+  <path d="M110 412 Q450 370 790 412 L725 452 L175 452 Z" fill="#334155" stroke="#475569" stroke-width="2"/>
+  <rect x="330" y="420" width="240" height="10" rx="5" fill="#64748b" opacity=".5"/>
 
-  <rect
-    x="180"
-    y="380"
-    width="540"
-    height="35"
-    rx="18"
-    fill="#374151"/>
-
-  <rect
-    x="250"
-    y="415"
-    width="400"
-    height="18"
-    rx="9"
-    fill="#4B5563"/>
-
-  <!-- Floating Tags -->
-
-  <g>
-
-    <rect x="80" y="120" width="110" height="42" rx="21" fill="#2563EB"/>
-    <text x="112" y="147" fill="white" font-size="16" font-family="Segoe UI">Java</text>
-
-    <rect x="680" y="110" width="150" height="42" rx="21" fill="#22C55E"/>
-    <text x="705" y="137" fill="white" font-size="16" font-family="Segoe UI">Spring Boot</text>
-
-    <rect x="90" y="430" width="140" height="42" rx="21" fill="#EF4444"/>
-    <text x="118" y="457" fill="white" font-size="16" font-family="Segoe UI">Angular</text>
-
-    <rect x="690" y="440" width="120" height="42" rx="21" fill="#38BDF8"/>
-    <text x="720" y="467" fill="white" font-size="16" font-family="Segoe UI">React</text>
-
-    <rect x="360" y="510" width="170" height="46" rx="23" fill="#7C3AED"/>
-    <text x="395" y="539" fill="white" font-size="18" font-family="Segoe UI">
-AWS • Docker
-    </text>
-
+  <!-- Floating labels -->
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">
+    <rect x="70" y="150" width="128" height="40" rx="20" fill="#1d4ed8"/><text x="101" y="176" fill="#fff">Spring Boot</text>
+    <rect x="700" y="125" width="130" height="40" rx="20" fill="#7c3aed"/><text x="735" y="151" fill="#fff">Microservices</text>
+    <rect x="78" y="326" width="110" height="40" rx="20" fill="#0f766e"/><text x="106" y="352" fill="#fff">PostgreSQL</text>
+    <rect x="714" y="320" width="84" height="40" rx="20" fill="#047857"/><text x="737" y="346" fill="#fff">Kafka</text>
   </g>
 
+  <text x="450" y="505" text-anchor="middle" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="17">Designing for correctness first, scale second.</text>
 </svg>
