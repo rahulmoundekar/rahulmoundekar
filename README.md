@@ -68,6 +68,10 @@
   <strong>My projects are experiments in production engineering, not just CRUD demos.</strong>
 </p>
 
+<p align="center">
+  <img src="assets/architecture-overview.svg" width="100%" alt="Engineering portfolio architecture map"/>
+</p>
+
 <table>
   <tr>
     <td width="25%" align="center"><strong>Correctness</strong><br/>Idempotency · concurrency · transactional integrity</td>
@@ -78,26 +82,33 @@
 </table>
 
 <p align="center">
-  <a href="docs/architecture.md"><strong>Read the Architecture Portfolio →</strong></a>
+  <a href="docs/architecture.md"><strong>Read the Architecture Notes →</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="docs/project-map.md"><strong>Explore the Project Map →</strong></a>
 </p>
 
 ---
 
 ## 🚀 Featured Engineering Work
 
+<p align="center">
+  <strong>Six projects, one engineering theme: make distributed systems predictable under failure.</strong><br/>
+  <a href="docs/project-map.md">See the problem → architecture → technology map</a>
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 SSO Service <sup>PRIVATE</sup></h3>
+      <h3>🔐 SSO Service <sup>PRIVATE PRODUCT</sup></h3>
       <p>Reusable authentication boundary for applications and microservices.</p>
       <p><strong>Spring Boot · Spring Security · JWT · Microservices</strong></p>
-      <a href="https://github.com/rahulmoundekar/sso-service">View repository →</a>
+      <p><em>Architecture available on request.</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏫 Institute Management <sup>PRIVATE</sup></h3>
+      <h3>🏫 Institute Management <sup>PRIVATE PRODUCT</sup></h3>
       <p>Full-stack institute management platform with enterprise administration workflows.</p>
       <p><strong>Java · Spring Boot · Angular · PostgreSQL</strong></p>
-      <a href="https://github.com/rahulmoundekar/institute-management">View repository →</a>
+      <p><em>Product implementation is private.</em></p>
     </td>
   </tr>
   <tr>
@@ -178,6 +189,10 @@ I’m extending my backend engineering toolkit into modern AI application develo
 
 ## 🧠 System Design Themes
 
+<p align="center">
+  <em>I care about the behavior of a system when traffic spikes, requests repeat, dependencies fail, and data must stay correct.</em>
+</p>
+
 ```text
 API Gateway        → Service Discovery     → Resilience
 OAuth2 / JWT       → RBAC                  → Tenant Isolation
@@ -237,6 +252,10 @@ PostgreSQL         → Search Indexing       → Performance
 ## 📫 Connect
 
 <p align="center">
+  <a href="docs/project-map.md">
+    <img src="https://img.shields.io/badge/Portfolio-Project%20Map-0F172A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Project map"/>
+  </a>
+
   <a href="https://github.com/rahulmoundekar">
     <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
