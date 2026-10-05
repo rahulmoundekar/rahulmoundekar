@@ -19,7 +19,7 @@
 <circle cx="1135" cy="80" r="150" fill="#7c3aed" opacity=".09"/>
 <circle cx="1170" cy="465" r="180" fill="#22d3ee" opacity=".045"/>
 
-<g filter="url(#shadow)" transform="rotate(-3 190 345)">
+<g transform="rotate(-3 190 345)">
   <path d="M76 150V66C76 44 92 28 114 28h152c22 0 38 16 38 38v84" fill="none" stroke="#475569" stroke-width="5"/>
   <path d="M131 72h118" stroke="#22d3ee" stroke-width="4" stroke-linecap="round"/>
   <rect x="54" y="150" width="272" height="378" rx="24" fill="#07101d" stroke="#334155"/>
