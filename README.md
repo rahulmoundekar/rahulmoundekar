@@ -1,273 +1,65 @@
-<!-- PROFILE HERO -->
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Rahul Moundekar — Senior Java Full Stack Developer"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/rahulmoundekar">
-    <img src="https://img.shields.io/badge/GitHub-rahulmoundekar-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-moundekar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Moundekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<!-- 🎬 HERO -->
+<img src="./assets/profile-hero.svg?v=2" alt="Hi, I'm Rahul Moundekar — Senior Java Full Stack Developer" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=920&lines=Senior+Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Spring+Security;Building+reliable+distributed+systems;Angular+%7C+React+%7C+TypeScript;Exploring+AI%2C+Agents+%26+Modern+Backend+Architecture" alt="Typing introduction"/>
-</p>
+<br/><br/>
 
----
+<!-- 🧑‍💻 ABOUT + LIFE -->
+<img src="./assets/about-life.svg?v=2" alt="What I build, and life beyond the code" width="100%"/>
 
-## 👋 About Me
+<br/><br/>
 
-<table>
-  <tr>
-    <td width="52%" valign="top">
-      <h3>Senior Java Full Stack Developer</h3>
-      <p>
-        I build backend-heavy, production-oriented applications with <strong>Java + Spring Boot</strong>,
-        with a strong focus on <strong>security, reliability, transaction safety, event-driven architecture
-        and scalable APIs</strong>.
-      </p>
-      <p>
-        My side projects are a practical engineering lab: I use them to explore system design,
-        distributed systems, database correctness, observability and modern AI tooling.
-      </p>
-      <p>
-        <strong>Primary stack:</strong> Java · Spring Boot · Spring Security · PostgreSQL · Kafka · Redis · Docker · AWS
-      </p>
-    </td>
-    <td width="48%" align="center">
-      <img src="assets/coding-3d.svg" width="100%" alt="Engineering architecture illustration"/>
-    </td>
-  </tr>
-</table>
+<!-- 🧰 TECH STACK -->
+<img src="./assets/stack.svg?v=2" alt="Technology stack" width="100%"/>
 
----
+<br/><br/>
 
-## 🧭 What I Build
+<!-- 🪪 DEVELOPER ID + DASHBOARD -->
+<img src="./assets/id-dashboard.svg?v=2" alt="Developer ID and engineering dashboard" width="100%"/>
 
-<p align="center">
-  <img src="assets/project-showcase.svg" width="100%" alt="Engineering portfolio themes"/>
-</p>
-
-<table>
-  <tr>
-    <td align="center"><strong>🔐 Secure</strong><br/>JWT · RBAC · tenant isolation</td>
-    <td align="center"><strong>💳 Reliable</strong><br/>Idempotency · transactions · ledgers</td>
-    <td align="center"><strong>📨 Distributed</strong><br/>Kafka · outbox · DLT</td>
-    <td align="center"><strong>🔗 Integrated</strong><br/>Webhooks · queues · retries</td>
-  </tr>
-</table>
-
----
-
-## 🏗️ Architecture & Engineering
-
-<p align="center">
-  <strong>My projects are experiments in production engineering, not just CRUD demos.</strong>
-</p>
-
-<p align="center">
-  <img src="assets/architecture-overview.svg" width="100%" alt="Engineering portfolio architecture map"/>
-</p>
-
-<table>
-  <tr>
-    <td width="25%" align="center"><strong>Correctness</strong><br/>Idempotency · concurrency · transactional integrity</td>
-    <td width="25%" align="center"><strong>Security</strong><br/>JWT · RBAC · multi-tenancy · RLS</td>
-    <td width="25%" align="center"><strong>Resilience</strong><br/>Retries · DLT · recovery · failure states</td>
-    <td width="25%" align="center"><strong>Operability</strong><br/>Metrics · health checks · structured logs</td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="docs/architecture.md"><strong>Read the Architecture Notes →</strong></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="docs/project-map.md"><strong>Explore the Project Map →</strong></a>
-</p>
-
----
-
-## 🚀 Featured Engineering Work
-
-<p align="center">
-  <strong>Six projects, one engineering theme: make distributed systems predictable under failure.</strong><br/>
-  <a href="docs/project-map.md">See the problem → architecture → technology map</a>
-</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 SSO Service <sup>PRIVATE PRODUCT</sup></h3>
-      <p>Reusable authentication boundary for applications and microservices.</p>
-      <p><strong>Spring Boot · Spring Security · JWT · Microservices</strong></p>
-      <p><em>Architecture available on request.</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏫 Institute Management <sup>PRIVATE PRODUCT</sup></h3>
-      <p>Full-stack institute management platform with enterprise administration workflows.</p>
-      <p><strong>Java · Spring Boot · Angular · PostgreSQL</strong></p>
-      <p><em>Product implementation is private.</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 Payment Idempotent Ledger</h3>
-      <p>Payment API built around idempotency, serializable transactions and double-entry accounting.</p>
-      <p><strong>Java · Spring Boot · PostgreSQL · JPA</strong></p>
-      <a href="https://github.com/rahulmoundekar/payment-idempotent-ledger">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ Auth Token Service</h3>
-      <p>Multi-tenant auth platform with JWT, rotating refresh tokens and database-level tenant isolation.</p>
-      <p><strong>Java 21 · Spring Security · PostgreSQL · Flyway</strong></p>
-      <a href="https://github.com/rahulmoundekar/auth-token-service">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📨 Event-Driven Notification</h3>
-      <p>Reliable event workflow using transactional outbox, Kafka, idempotent consumers, retries and DLT.</p>
-      <p><strong>Spring Boot · Kafka · PostgreSQL · Prometheus</strong></p>
-      <a href="https://github.com/rahulmoundekar/event-driven-notification-service">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔗 Webhook Delivery Service</h3>
-      <p>Signed asynchronous webhook delivery with retries, jitter, delivery history and dead-letter recovery.</p>
-      <p><strong>Spring Boot · Redis · PostgreSQL · HMAC</strong></p>
-      <a href="https://github.com/rahulmoundekar/webhook-delivery-service">View repository →</a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/rahulmoundekar?tab=repositories">Explore all repositories →</a>
-</p>
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,angular,react,typescript,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,aws,git,github,linux&perline=9" alt="Technology stack"/>
-</p>
-
-<details>
-<summary><strong>Core technologies</strong></summary>
 <br/>
 
-**Backend:** Java 8/17/21 · Spring Boot · Spring Security · Hibernate · REST APIs · JPA
+<a href="./docs/architecture.md"><strong>🏗️ Read the Architecture Portfolio</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="./docs/project-map.md"><strong>🗺️ Explore the Project Map</strong></a>
 
-**Frontend:** Angular · React · TypeScript
+<br/><br/>
 
-**Data:** PostgreSQL · MySQL · MongoDB · Redis
+</div>
 
-**Messaging & Integration:** Kafka · Redis queues · Webhooks · Event-driven architecture
+## 🚀 Featured builds
 
-**DevOps & Cloud:** Docker · Kubernetes · GitHub Actions · Jenkins · AWS
+| Project | What it is | Stack | Stars |
+|:---|:---|:---|:---:|
+| [**Payment Idempotent Ledger**](https://github.com/rahulmoundekar/payment-idempotent-ledger) | Payment correctness under retries and concurrency, with double-entry accounting | `Java` `Spring Boot` `PostgreSQL` `JPA` | ⭐ 0 |
+| [**Auth Token Service**](https://github.com/rahulmoundekar/auth-token-service) | Multi-tenant authentication with rotating refresh tokens, RBAC and PostgreSQL RLS | `Java 21` `Spring Security` `PostgreSQL` `Flyway` | ⭐ 0 |
+| [**Event-Driven Notification Service**](https://github.com/rahulmoundekar/event-driven-notification-service) | Reliable event processing with transactional outbox, Kafka, retries and DLT | `Java 21` `Kafka` `PostgreSQL` `Prometheus` | ⭐ 0 |
+| [**Webhook Delivery Service**](https://github.com/rahulmoundekar/webhook-delivery-service) | Asynchronous signed delivery with retries, jitter and dead-letter recovery | `Java 21` `Spring Boot` `Redis` `HMAC` | ⭐ 0 |
+| [**Full-Text Search API**](https://github.com/rahulmoundekar/fulltext-search-api) | PostgreSQL-native search with relevance ranking and fuzzy fallback | `Java 21` `Spring Boot` `PostgreSQL` `pg_trgm` | ⭐ 0 |
+| [**Real-Time Notification Service**](https://github.com/rahulmoundekar/realtime-notification-service) | Durable notifications with Redis fan-out and WebSocket/SSE delivery | `Java 21` `Redis` `WebSocket` `SSE` | ⭐ 0 |
 
-**Engineering:** API design · concurrency · transaction management · observability · system design
+<div align="center">
 
-</details>
+<br/>
 
----
+## 🌃 My contribution city
 
-## 🤖 AI & Current Exploration
+*Every contribution becomes another part of the engineering skyline — generated automatically.*
 
-I’m extending my backend engineering toolkit into modern AI application development:
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution city" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20AI-0F172A?style=for-the-badge" alt="Spring AI"/>
-  <img src="https://img.shields.io/badge/LangChain4j-1E293B?style=for-the-badge" alt="LangChain4j"/>
-  <img src="https://img.shields.io/badge/MCP-312E81?style=for-the-badge" alt="MCP"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-4C1D95?style=for-the-badge" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="RAG"/>
-</p>
+<br/><br/>
 
----
+<!-- 💌 CONNECT -->
+<img src="./assets/connect.svg?v=2" alt="Let's connect" width="100%"/>
 
-## 🧠 System Design Themes
+<a href="https://github.com/rahulmoundekar"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/rahul-moundekar/"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0d0e16" alt="LinkedIn"/></a>
+<a href="./docs/architecture.md"><img src="https://img.shields.io/badge/Architecture-34d399?style=for-the-badge&logo=readthedocs&logoColor=0d0e16" alt="Architecture"/></a>
 
-<p align="center">
-  <em>I care about the behavior of a system when traffic spikes, requests repeat, dependencies fail, and data must stay correct.</em>
-</p>
+<br/><br/>
 
-```text
-API Gateway        → Service Discovery     → Resilience
-OAuth2 / JWT       → RBAC                  → Tenant Isolation
-Idempotency        → Distributed Locks     → Transaction Safety
-Transactional Outbox → Kafka               → Idempotent Consumers
-Retries + DLT      → Observability         → Recovery
-PostgreSQL         → Search Indexing       → Performance
-```
+*Always learning, always building — with a bias toward secure, reliable systems.*
 
----
-
-## 🎮 Outside the IDE
-
-<p align="center">
-  <img src="assets/hobbies.svg" width="100%" alt="Badminton, video games and engineering side projects"/>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=rahulmoundekar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmoundekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulmoundekar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulmoundekar&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph"/>
-</p>
-
----
-
-## 📈 Profile Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="Generated GitHub profile metrics"/>
-</p>
-
-<p align="center">
-  <em>Profile metrics are generated automatically from GitHub activity.</em>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulmoundekar/rahulmoundekar/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-</p>
-
----
-
-## 📫 Connect
-
-<p align="center">
-  <a href="docs/project-map.md">
-    <img src="https://img.shields.io/badge/Portfolio-Project%20Map-0F172A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Project map"/>
-  </a>
-
-  <a href="https://github.com/rahulmoundekar">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-moundekar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <em>Build useful systems. Understand the trade-offs. Keep learning.</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=120&section=footer" width="100%" alt="Footer"/>
-</p>
+</div>
