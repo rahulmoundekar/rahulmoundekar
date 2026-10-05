@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470" role="img" aria-labelledby="t d">
+<title id="t">Developer ID and engineering dashboard</title><desc id="d">A visual developer identity card alongside a dashboard of engineering focus areas.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#070b14"/><stop offset="1" stop-color="#172554"/></linearGradient><linearGradient id="g" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1400" height="470" rx="28" fill="url(#bg)"/>
+<rect x="42" y="42" width="420" height="386" rx="24" fill="#020617" stroke="#334155"/>
+<text x="76" y="88" fill="#67e8f9" font-family="Arial" font-size="13" font-weight="700" letter-spacing="2">DEVELOPER ID</text>
+<circle cx="124" cy="164" r="52" fill="#0f172a" stroke="url(#g)" stroke-width="3"/><text x="124" y="173" text-anchor="middle" fill="#f8fafc" font-family="Arial" font-size="36" font-weight="800">RM</text>
+<text x="200" y="150" fill="#f8fafc" font-family="Arial" font-size="26" font-weight="800">Rahul Moundekar</text><text x="200" y="177" fill="#c4b5fd" font-family="Arial" font-size="15" font-weight="700">Senior Java Full Stack Developer</text>
+<line x1="76" y1="229" x2="428" y2="229" stroke="#334155"/>
+<g font-family="Arial" font-size="14"><text x="76" y="263" fill="#64748b">FOCUS</text><text x="178" y="263" fill="#e2e8f0">Security · Reliability · System Design</text><text x="76" y="299" fill="#64748b">STACK</text><text x="178" y="299" fill="#e2e8f0">Java · Spring · PostgreSQL · Kafka</text><text x="76" y="335" fill="#64748b">BUILDING</text><text x="178" y="335" fill="#e2e8f0">Production-style backend systems</text><text x="76" y="371" fill="#64748b">EXPLORING</text><text x="178" y="371" fill="#e2e8f0">Spring AI · MCP · RAG · Agents</text></g>
+<g transform="translate(500 42)">
+<rect width="858" height="386" rx="24" fill="#020617" stroke="#334155"/><text x="34" y="48" fill="#f8fafc" font-family="Arial" font-size="24" font-weight="800">Engineering dashboard</text><text x="34" y="74" fill="#94a3b8" font-family="Arial" font-size="13">The problems I like solving</text>
+<g font-family="Arial">
+<rect x="34" y="108" width="380" height="102" rx="18" fill="#0f172a" stroke="#22d3ee"/><text x="58" y="141" fill="#67e8f9" font-size="13" font-weight="700">01 · CORRECTNESS</text><text x="58" y="174" fill="#f8fafc" font-size="19" font-weight="700">Idempotency + concurrency</text><text x="58" y="196" fill="#94a3b8" font-size="12">Payments · transaction invariants</text>
+<rect x="438" y="108" width="380" height="102" rx="18" fill="#0f172a" stroke="#a78bfa"/><text x="462" y="141" fill="#c4b5fd" font-size="13" font-weight="700">02 · SECURITY</text><text x="462" y="174" fill="#f8fafc" font-size="19" font-weight="700">Identity + tenant isolation</text><text x="462" y="196" fill="#94a3b8" font-size="12">JWT · RBAC · PostgreSQL RLS</text>
+<rect x="34" y="230" width="380" height="102" rx="18" fill="#0f172a" stroke="#22c55e"/><text x="58" y="263" fill="#86efac" font-size="13" font-weight="700">03 · RESILIENCE</text><text x="58" y="296" fill="#f8fafc" font-size="19" font-weight="700">Recoverable failure paths</text><text x="58" y="318" fill="#94a3b8" font-size="12">Retries · DLT · replay · outbox</text>
+<rect x="438" y="230" width="380" height="102" rx="18" fill="#0f172a" stroke="#f59e0b"/><text x="462" y="263" fill="#fcd34d" font-size="13" font-weight="700">04 · OPERABILITY</text><text x="462" y="296" fill="#f8fafc" font-size="19" font-weight="700">Observable production behavior</text><text x="462" y="318" fill="#94a3b8" font-size="12">Metrics · health · structured logs</text>
+</g>
+<text x="34" y="360" fill="#64748b" font-family="Arial" font-size="12">Portfolio: secure services • payment correctness • event workflows • reliable integrations</text>
+</g>
+</svg>
