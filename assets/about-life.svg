@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="t d">
+<title id="t">What Rahul builds and life beyond code</title><desc id="d">Two-panel profile visual showing backend engineering themes and badminton, gaming and learning.</desc>
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#090d18"/><stop offset="1" stop-color="#121a2c"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1400" height="430" rx="28" fill="url(#b)"/>
+<rect x="38" y="38" width="642" height="354" rx="24" fill="#020617" fill-opacity=".6" stroke="#334155"/>
+<rect x="720" y="38" width="642" height="354" rx="24" fill="#020617" fill-opacity=".6" stroke="#334155"/>
+<text x="76" y="88" fill="#67e8f9" font-family="Arial" font-size="14" font-weight="700" letter-spacing="2">WHAT I BUILD</text>
+<text x="76" y="127" fill="#f8fafc" font-family="Arial" font-size="29" font-weight="800">Systems that stay correct under pressure.</text>
+<g font-family="Arial" font-size="15">
+<rect x="76" y="165" width="250" height="70" rx="16" fill="#0f172a" stroke="#22d3ee"/><text x="96" y="193" fill="#67e8f9" font-weight="700">SECURE SERVICES</text><text x="96" y="216" fill="#94a3b8">JWT · RBAC · multi-tenancy</text>
+<rect x="344" y="165" width="250" height="70" rx="16" fill="#0f172a" stroke="#a78bfa"/><text x="364" y="193" fill="#c4b5fd" font-weight="700">CORRECTNESS</text><text x="364" y="216" fill="#94a3b8">idempotency · transactions</text>
+<rect x="76" y="250" width="250" height="70" rx="16" fill="#0f172a" stroke="#22c55e"/><text x="96" y="278" fill="#86efac" font-weight="700">EVENT SYSTEMS</text><text x="96" y="301" fill="#94a3b8">Kafka · outbox · DLT</text>
+<rect x="344" y="250" width="250" height="70" rx="16" fill="#0f172a" stroke="#f59e0b"/><text x="364" y="278" fill="#fcd34d" font-weight="700">INTEGRATIONS</text><text x="364" y="301" fill="#94a3b8">webhooks · queues · retries</text>
+</g>
+<text x="758" y="88" fill="#c4b5fd" font-family="Arial" font-size="14" font-weight="700" letter-spacing="2">LIFE OUTSIDE CODE</text>
+<text x="758" y="127" fill="#f8fafc" font-family="Arial" font-size="29" font-weight="800">Build. Play. Reset. Learn.</text>
+<g transform="translate(760 160)">
+ <circle cx="92" cy="78" r="64" fill="#0f172a" stroke="#22d3ee" stroke-width="2"/><path d="M65 83Q92 26 119 83Q92 105 65 83Z" fill="none" stroke="#67e8f9" stroke-width="4"/><path d="M92 22V10M92 146v-12M26 78H14M170 78h-12" stroke="#334155" stroke-width="3"/>
+ <text x="92" y="175" text-anchor="middle" fill="#e2e8f0" font-family="Arial" font-size="16" font-weight="700">BADMINTON</text>
+</g>
+<g transform="translate(980 160)">
+ <rect x="0" y="14" width="140" height="96" rx="16" fill="#0f172a" stroke="#a78bfa" stroke-width="2"/><rect x="18" y="32" width="104" height="60" rx="8" fill="#111827" stroke="#475569"/><path d="M36 78L52 58L67 72L82 49L105 78" fill="none" stroke="#c4b5fd" stroke-width="3"/><circle cx="92" cy="45" r="4" fill="#a78bfa"/><text x="70" y="137" text-anchor="middle" fill="#e2e8f0" font-family="Arial" font-size="16" font-weight="700">VIDEO GAMES</text>
+</g>
+<g transform="translate(1170 154)">
+ <rect x="0" y="16" width="120" height="110" rx="16" fill="#0f172a" stroke="#22c55e"/><path d="M24 98L53 43L82 98" fill="none" stroke="#86efac" stroke-width="5"/><path d="M39 75H68M45 62H62" stroke="#86efac" stroke-width="4"/><text x="60" y="150" text-anchor="middle" fill="#e2e8f0" font-family="Arial" font-size="16" font-weight="700">LEARNING</text>
+</g>
+<text x="758" y="348" fill="#64748b" font-family="Arial" font-size="13">Current curiosity: Spring AI · LangChain4j · MCP · RAG · AI agents</text>
+</svg>
