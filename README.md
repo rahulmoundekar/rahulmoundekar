@@ -22,32 +22,43 @@
 
 <table>
   <tr>
-    <td width="180" align="center">
-      <img src="https://avatars.githubusercontent.com/u/10783422?v=4" width="150" height="150" style="border-radius:50%" alt="Rahul Moundekar"/>
+    <td width="52%" valign="top">
+      <h3>Senior Java Full Stack Developer</h3>
+      <p>
+        I build backend-heavy, production-oriented applications with <strong>Java + Spring Boot</strong>,
+        with a strong focus on <strong>security, reliability, transaction safety, event-driven architecture
+        and scalable APIs</strong>.
+      </p>
+      <p>
+        My side projects are a practical engineering lab: I use them to explore system design,
+        distributed systems, database correctness, observability and modern AI tooling.
+      </p>
+      <p>
+        <strong>Primary stack:</strong> Java · Spring Boot · Spring Security · PostgreSQL · Kafka · Redis · Docker · AWS
+      </p>
     </td>
-    <td>
-      <strong>Senior Java Full Stack Developer</strong><br/><br/>
-      I build backend-heavy, production-oriented applications with Java and Spring Boot, with a strong focus on
-      <strong>security, reliability, transaction safety, event-driven architecture and scalable APIs</strong>.<br/><br/>
-      I also work across Angular, React, PostgreSQL, Redis, Docker, Kubernetes and AWS, and I use side projects to
-      explore system design, distributed systems and modern AI tooling.
+    <td width="48%" align="center">
+      <img src="assets/coding-3d.svg" width="100%" alt="Engineering architecture illustration"/>
     </td>
   </tr>
 </table>
 
-### 🧭 What I Build
+---
+
+## 🧭 What I Build
 
 <p align="center">
   <img src="assets/project-showcase.svg" width="100%" alt="Engineering portfolio themes"/>
 </p>
 
-| Focus | What it looks like in my projects |
-|---|---|
-| 🔐 Security | JWT, RBAC, refresh-token rotation, tenant isolation, PostgreSQL RLS |
-| 💳 Reliability | Idempotency, transaction isolation, deterministic locking, double-entry ledgers |
-| 📨 Distributed Systems | Kafka, transactional outbox, idempotent consumers, retries, DLT |
-| 🔗 Integration | Signed webhooks, async delivery, backoff with jitter, dead-letter recovery |
-| 🔎 Data & Search | PostgreSQL Full-Text Search, ranking, fuzzy matching, GIN indexes |
+<table>
+  <tr>
+    <td align="center"><strong>🔐 Secure</strong><br/>JWT · RBAC · tenant isolation</td>
+    <td align="center"><strong>💳 Reliable</strong><br/>Idempotency · transactions · ledgers</td>
+    <td align="center"><strong>📨 Distributed</strong><br/>Kafka · outbox · DLT</td>
+    <td align="center"><strong>🔗 Integrated</strong><br/>Webhooks · queues · retries</td>
+  </tr>
+</table>
 
 ---
 
@@ -56,38 +67,44 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 SSO Service</h3>
-      <p>Reusable authentication boundary for applications and microservices, centered on Spring Boot and Spring Security.</p>
-      <p><a href="https://github.com/rahulmoundekar/sso-service">View repository →</a> · <strong>Private</strong></p>
+      <h3>🔐 SSO Service <sup>PRIVATE</sup></h3>
+      <p>Reusable authentication boundary for applications and microservices.</p>
+      <p><strong>Spring Boot · Spring Security · JWT · Microservices</strong></p>
+      <a href="https://github.com/rahulmoundekar/sso-service">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏫 Institute Management</h3>
-      <p>Full-stack institute management platform demonstrating enterprise application architecture and administration workflows.</p>
-      <p><a href="https://github.com/rahulmoundekar/institute-management">View repository →</a> · <strong>Private</strong></p>
+      <h3>🏫 Institute Management <sup>PRIVATE</sup></h3>
+      <p>Full-stack institute management platform with enterprise administration workflows.</p>
+      <p><strong>Java · Spring Boot · Angular · PostgreSQL</strong></p>
+      <a href="https://github.com/rahulmoundekar/institute-management">View repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💳 Payment Idempotent Ledger</h3>
-      <p>Reliable payment API with idempotency keys, serializable transactions, account locking and double-entry accounting.</p>
-      <p><a href="https://github.com/rahulmoundekar/payment-idempotent-ledger">View repository →</a></p>
+      <p>Payment API built around idempotency, serializable transactions and double-entry accounting.</p>
+      <p><strong>Java · Spring Boot · PostgreSQL · JPA</strong></p>
+      <a href="https://github.com/rahulmoundekar/payment-idempotent-ledger">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ Auth Token Service</h3>
-      <p>Multi-tenant authentication and authorization service with JWT, rotating refresh tokens, RLS and Testcontainers.</p>
-      <p><a href="https://github.com/rahulmoundekar/auth-token-service">View repository →</a></p>
+      <p>Multi-tenant auth platform with JWT, rotating refresh tokens and database-level tenant isolation.</p>
+      <p><strong>Java 21 · Spring Security · PostgreSQL · Flyway</strong></p>
+      <a href="https://github.com/rahulmoundekar/auth-token-service">View repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📨 Event-Driven Notification</h3>
-      <p>Event-driven notification platform using Kafka, transactional outbox, idempotent consumers, retries and DLT.</p>
-      <p><a href="https://github.com/rahulmoundekar/event-driven-notification-service">View repository →</a></p>
+      <p>Reliable event workflow using transactional outbox, Kafka, idempotent consumers, retries and DLT.</p>
+      <p><strong>Spring Boot · Kafka · PostgreSQL · Prometheus</strong></p>
+      <a href="https://github.com/rahulmoundekar/event-driven-notification-service">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🔗 Webhook Delivery Service</h3>
-      <p>Reliable webhook delivery with HMAC signing, Redis queueing, delivery history, bounded retries and dead-letter recovery.</p>
-      <p><a href="https://github.com/rahulmoundekar/webhook-delivery-service">View repository →</a></p>
+      <p>Signed asynchronous webhook delivery with retries, jitter, delivery history and dead-letter recovery.</p>
+      <p><strong>Spring Boot · Redis · PostgreSQL · HMAC</strong></p>
+      <a href="https://github.com/rahulmoundekar/webhook-delivery-service">View repository →</a>
     </td>
   </tr>
 </table>
