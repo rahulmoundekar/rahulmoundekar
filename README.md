@@ -193,6 +193,18 @@ PostgreSQL         → Search Indexing       → Performance
 
 ---
 
+## 📈 Profile Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" width="100%" alt="Generated GitHub profile metrics"/>
+</p>
+
+<p align="center">
+  <em>Profile metrics are generated automatically from GitHub activity.</em>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
