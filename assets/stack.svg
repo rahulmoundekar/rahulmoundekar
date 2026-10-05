@@ -14,7 +14,7 @@
 </defs>
 <rect width="1280" height="480" rx="28" fill="url(#bg)"/><rect x="18" y="18" width="1244" height="444" rx="24" fill="url(#grid)"/>
 
-<g filter="url(#shadow)">
+<g>
   <rect x="34" y="92" width="420" height="325" rx="24" fill="#07101d" stroke="#334155"/>
   <rect x="34" y="92" width="420" height="44" rx="24" fill="#0b1220"/>
   <circle cx="61" cy="114" r="5" fill="#ef4444"/><circle cx="78" cy="114" r="5" fill="#f59e0b"/><circle cx="95" cy="114" r="5" fill="#22c55e"/>
