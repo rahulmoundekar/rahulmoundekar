@@ -11,12 +11,12 @@
 <br/><br/>
 
 <!-- 🧰 TECH STACK -->
-<img src="./assets/stack.svg?v=2" alt="Technology stack" width="100%"/>
+<img src="./assets/stack.svg?v=3" alt="Technology stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 DEVELOPER ID + DASHBOARD -->
-<img src="./assets/id-dashboard.svg?v=2" alt="Developer ID and engineering dashboard" width="100%"/>
+<img src="./assets/id-dashboard.svg?v=3" alt="Developer ID and engineering dashboard" width="100%"/>
 
 <br/>
 
