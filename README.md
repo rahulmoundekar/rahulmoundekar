@@ -62,6 +62,27 @@
 
 ---
 
+## 🏗️ Architecture & Engineering
+
+<p align="center">
+  <strong>My projects are experiments in production engineering, not just CRUD demos.</strong>
+</p>
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>Correctness</strong><br/>Idempotency · concurrency · transactional integrity</td>
+    <td width="25%" align="center"><strong>Security</strong><br/>JWT · RBAC · multi-tenancy · RLS</td>
+    <td width="25%" align="center"><strong>Resilience</strong><br/>Retries · DLT · recovery · failure states</td>
+    <td width="25%" align="center"><strong>Operability</strong><br/>Metrics · health checks · structured logs</td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="docs/architecture.md"><strong>Read the Architecture Portfolio →</strong></a>
+</p>
+
+---
+
 ## 🚀 Featured Engineering Work
 
 <table>
