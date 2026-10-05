@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul Moundekar engineering portfolio map</title>
+  <desc id="desc">A visual map connecting correctness, security, resilience and operability to flagship engineering projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#020617" flood-opacity=".45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="500" rx="26" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="444" rx="20" fill="none" stroke="#334155" opacity=".7"/>
+
+  <text x="70" y="78" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Engineering Portfolio Map</text>
+  <text x="70" y="108" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="15">Problems first. Architecture second. Technology as the implementation detail.</text>
+
+  <g stroke="#475569" stroke-width="2" opacity=".75">
+    <path d="M600 250 L190 185"/>
+    <path d="M600 250 L1010 185"/>
+    <path d="M600 250 L190 350"/>
+    <path d="M600 250 L1010 350"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="430" y="185" width="340" height="130" rx="22" fill="#0f172a" stroke="url(#accent)" stroke-width="2"/>
+  </g>
+  <text x="600" y="228" text-anchor="middle" fill="#38bdf8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">SENIOR ENGINEERING LENS</text>
+  <text x="600" y="258" text-anchor="middle" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Build for correctness</text>
+  <text x="600" y="286" text-anchor="middle" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">secure · resilient · observable · recoverable</text>
+
+  <g filter="url(#shadow)">
+    <rect x="65" y="135" width="250" height="100" rx="18" fill="#0f172a" stroke="#38bdf8"/>
+    <rect x="885" y="135" width="250" height="100" rx="18" fill="#0f172a" stroke="#a78bfa"/>
+    <rect x="65" y="300" width="250" height="100" rx="18" fill="#0f172a" stroke="#22c55e"/>
+    <rect x="885" y="300" width="250" height="100" rx="18" fill="#0f172a" stroke="#f59e0b"/>
+  </g>
+
+  <text x="190" y="168" text-anchor="middle" fill="#38bdf8" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">CORRECTNESS</text>
+  <text x="190" y="193" text-anchor="middle" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="13">Payment Idempotent Ledger</text>
+  <text x="190" y="214" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12">transactions · locking · invariants</text>
+
+  <text x="1010" y="168" text-anchor="middle" fill="#a78bfa" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">SECURITY</text>
+  <text x="1010" y="193" text-anchor="middle" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="13">Auth Token Service</text>
+  <text x="1010" y="214" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12">JWT · RBAC · tenant isolation · RLS</text>
+
+  <text x="190" y="333" text-anchor="middle" fill="#22c55e" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">RESILIENCE</text>
+  <text x="190" y="358" text-anchor="middle" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="13">Event-Driven Notifications</text>
+  <text x="190" y="379" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12">outbox · Kafka · retry · DLT</text>
+
+  <text x="1010" y="333" text-anchor="middle" fill="#f59e0b" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">OPERABILITY</text>
+  <text x="1010" y="358" text-anchor="middle" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="13">Webhook Delivery + Search</text>
+  <text x="1010" y="379" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12">delivery history · metrics · indexing</text>
+
+  <g fill="#64748b">
+    <circle cx="390" cy="217" r="5"/><circle cx="810" cy="217" r="5"/>
+    <circle cx="390" cy="283" r="5"/><circle cx="810" cy="283" r="5"/>
+  </g>
+
+  <text x="70" y="445" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="12">rahulmoundekar · Java / Spring Boot / PostgreSQL / Kafka / Redis / Docker / AWS</text>
+</svg>
