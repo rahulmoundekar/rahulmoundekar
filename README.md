@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- 🪪 DEVELOPER ID + DASHBOARD -->
-<img src="./assets/id-dashboard.svg?v=3" alt="Developer ID and engineering dashboard" width="100%"/>
+<img src="./assets/id-dashboard.svg?v=4" alt="Developer ID and engineering dashboard" width="100%"/>
 
 <br/>
 
